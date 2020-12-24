@@ -1,12 +1,19 @@
-.flex-container {
+.body{
+  overflow-y: hidden;
+}
+.fpc {
     display: flex;
-    justify-content: space-around;
+    flex-direction : column;
+    justify-content: space-evenly;
+    
+   
   }
-.img{
-  position: relative;
-  top: 90px;
+.pathway{
+  position: fixed;
+  transform : translate(0px,-100px);
 }
 
 .sessions{
-  height:1900px;
+  position: absolute;
+  transform : translate(800px,-1)
 }

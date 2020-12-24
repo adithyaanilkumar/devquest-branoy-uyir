@@ -1,7 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 
-.nav {
+.nnav {
   padding: 30px;
+  position: fixed;
+  display: flex;
+  z-index:1000;
 }
 
 .overview {

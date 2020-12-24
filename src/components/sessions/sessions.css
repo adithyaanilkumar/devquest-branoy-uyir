@@ -259,31 +259,35 @@
 	}
 }
 .line{
+    display: flex;
 	height: 400px;
     width: 0px;
     border: 7px solid  #001F61;
     background-color: #001F61;
-	color:  #001F61B;
 	transform: translate(10px, -100px);
     transform: scaleY(1);
 	position: absolute;
-	z-index: 50;
+    z-index: 50;
 }
 .circle {
+    display: flex;
 	height: 50px;
 	width: 50px;
 	background-color: #001F61;
 	border-radius: 50%;
     transform: translate( -18px , 110px);
 	position: absolute;
-	z-index: 100;
+    z-index: 100;
+
   }
 .circle-inner{
+    display: flex;
 	height: 30px;
 	width: 30px;
 	background-color:whitesmoke;
 	border-radius: 50%;
     transform: translate( 10px , 10px);
 	position: absolute;
-	z-index: 100;
+    z-index: 100;
+
   }

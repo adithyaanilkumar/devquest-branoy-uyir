@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Elevator Pitch
+DevQuest is the one stop destination for all your developer needs.We bridge the gap between the Indian tech hiring scenario and the Indian technical education system by imbibing  a specially curated evaluation process that assesses practical knowledge and technical skills through our gamified upskilling platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Problems we are trying to solve
+We are all aware of the troubles we faced as freshmen, regarding choice of a path to start our developer journey with as well as how to go about building our knowledge in that specific area. As aspiring developers, everyone has the question of how, where and what to start learning, so that they can be industry-ready. Many people fall for fake internships which ask them to pay a hefty amount to gain experience, which may not necessarily be the right path to choose. The current methods of hiring selectively tend to test the competitiveness of the candidate and not the practical knowledge that they may possess. Our college curriculum does not take into account the skills required to function as a team in the industry, making hiring and training candidates a tedious task.
 
-## Available Scripts
+# About Devquest
+DevQuest Learn aims to shape your developer journey from zero to one through curated pathways and quest-based learning supplemented with developer events.DevQuest aims to gamify the process of learning to code and make it as simple as possible for students to  explore as many paths they can , to find a field which they are passionate about and can focus accordingly. We have divided each pathway into quests and have specially designed tasks to assess the students at the end of each quests.They can earn badges by completing each quests.
 
-In the project directory, you can run:
+# To run our project
+
+### `yarn install`
+To install all the dependencies
 
 ### `yarn start`
 
@@ -29,42 +35,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

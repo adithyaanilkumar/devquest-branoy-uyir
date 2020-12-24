@@ -8,8 +8,8 @@ import {BiMoon} from "react-icons/bi";
 
 function Navigation() {
  return(
- <div className = "nnav">
- <Navbar  bg="light" variant="light">
+ <div className = " nav container-fluid">
+ <Navbar bg="light" variant="light">
 
     <Nav className="mr-auto">
     <GiHamburgerMenu className = "hamburgermenu" style={{color: "#bfbfbf", fontSize: "1.5rem"}}/>

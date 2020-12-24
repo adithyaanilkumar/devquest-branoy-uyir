@@ -2,13 +2,16 @@ import React from "react";
 import './sessions.css'
 const Session = ()=> {
  return(
-<div className= "Container">
-   <div className='circle-line'>
-        <div className='circle'>
-            <div className='circle circle-inner'/>
+ <div className = " nav container-fluid">
+   <div className='flex-container'>
+        <div>
+            <div className='circle'>
+              <div className='circle circle-inner'></div>
+            </div>
+            <div className='line'></div>
         </div>
-        <div className='line'/> 
-    <div>
+  <div>
+
         <div className="courses-container">
           <div className="course">
             <div className="course-preview">
@@ -65,11 +68,15 @@ const Session = ()=> {
             </ul>
           </div>
         </div>
-
+        <button className="floating-btn">
+          Get in Touch
+        </button>
+        <div className="floating-text">
+          Part of <a href="https://florin-pop.com/blog/2019/09/100-days-100-projects" target="_blank">#100Days100Projects</a>
+        </div>
       </div>
-    </div>
-</div>
-    )
+      </div>
+ </div>)
 }
 
 export default Session;

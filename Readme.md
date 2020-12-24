@@ -7,6 +7,17 @@ We are all aware of the troubles we faced as freshmen, regarding choice of a pat
 # About Devquest
 DevQuest Learn aims to shape your developer journey from zero to one through curated pathways and quest-based learning supplemented with developer events.DevQuest aims to gamify the process of learning to code and make it as simple as possible for students to  explore as many paths they can , to find a field which they are passionate about and can focus accordingly. We have divided each pathway into quests and have specially designed tasks to assess the students at the end of each quests.They can earn badges by completing each quests.
 
+# Contents of Project
+ - | ./buddy ststem
+ - | ./public
+ - | ./src2 minutes ago
+ - | .gitignore
+ - | Readme.md
+ - | debug.log
+ - | package-lock.json
+ - | package.json
+ - | yarn.lock
+
 # To run our project
 
 ### `yarn install`
